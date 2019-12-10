@@ -460,9 +460,11 @@ textarea.input {
   margin-bottom: 0px;
 }
 
-.cart-dropdown .cart-list .product-widget .product-img {
+.cart-dropdown .cart-list .product-widget .product-img:hover {
   left: 0px;
   top: 0px;
+  transform-style: preserve-3d;
+  transform: perspective(700px) rotateX(-30deg) rotateY(-30deg); /* Transformaciones 3D */
 }
 
 .cart-dropdown .cart-list .product-widget .product-body .product-price {
