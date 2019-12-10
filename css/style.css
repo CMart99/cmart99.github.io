@@ -597,7 +597,7 @@ textarea.input {
   display: inline-block;
   width: calc(50% - 0px);
   padding: 12px;
-  background-color: #D10024;
+  background-color: #000000;
   color: #FFF;
   text-align: center;
   font-weight: 700;
