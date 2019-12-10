@@ -2070,8 +2070,9 @@ textarea.input {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 60%;
+	width: 80%;
 	height: 100%;
+	padding-left: 2em;
 }
 
 /*=========================================================
