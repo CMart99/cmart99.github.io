@@ -348,8 +348,6 @@ textarea.input {
 
 .header-search {
   padding: 15px 0px;
-  transform-style: preserve-3d;
-  transform: perspective(700px) rotateX(-30deg) rotateY(-30deg); /* Transformaciones 3D */
 }
 
 .header-search form {
